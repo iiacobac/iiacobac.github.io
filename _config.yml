@@ -21,11 +21,11 @@ repository               : "iiacobac/iiacobac.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.jpg"
+  avatar           : "me.jpg"
   name             : "Ignacio"
   pronouns         : # example: "she/her"  
-  bio              : "Expert NLP""
-  location         : "London, UK"# "Earth"
+  bio              : "Expert NLP"
+  location         : "London, UK" # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 
