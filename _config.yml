@@ -36,15 +36,15 @@ author:
   impactstory      : # URL
   orcid            : https://orcid.org/0000-0002-8913-8561
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : iiacobac 
+  bitbucket        : # iiacobac 
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "iiacobac"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
