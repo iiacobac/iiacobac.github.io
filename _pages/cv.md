@@ -16,7 +16,13 @@ Education
 
 Work experience
 ======
-* Sep 2018 - Oct 2024: Expert NLP / Team Leader at  **Huawei Noah's Ark Lab** 
+* **ELM Europe** - Nov 2024 - Ongoing
+* London, United Kingdom
+* Senior NLP Researcher
+
+* [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
+* London, United Kingdom
+* Expert NLP / Team Leader 
   * Led a team of 7 to 10 members made by BSc./MSc. interns, contractors and Research Scientist.
   * Co-authored, developed and advised 20+ research papers on top level conferences such as ACL, EMNLP, NAACL, EACL, AAAI, etc.
   * Led the PanGu-Coder . project which was state-of-the-art model on code generation (HumanEval) and was used as backbone for CodeArts Snap, Code AI assistant from Huawei.
