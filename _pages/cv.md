@@ -16,11 +16,12 @@ Education
 
 Work experience
 ======
-* **ELM Europe** - Nov 2024 - Ongoing
+
+#### [**ELM Europe**](https://elmeurope.com/), Nov 2024 - Ongoing
 * London, United Kingdom
 * Senior NLP Researcher
 
-* [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
+#### [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
 * London, United Kingdom
 * Expert NLP / Team Leader 
   * Led a team of 7 to 10 members made by BSc./MSc. interns, contractors and Research Scientist.
@@ -30,7 +31,9 @@ Work experience
   * Coordination and development Nezha Plus, runner up system on SuperGLUE benchmark for General NLU (2020).
   * Interviewed 60+ candidates on 6 years. Helped to create the team from scratch.
 
-* July 2016 - Sep 2016: Software Engineer Intern at **Google Zurich**
+#### **Google Zurich**, July 2016 - Sep 2016
+* Zurich, Switzerland
+* Software Engineer Intern 
   * C++ development on the YouTube Content ID team. Improving detecting copyrighted material by incorporating metadata (textual) information.
 
 * April 2012 - April 2014: Machine Learning Engineer at **Flowics**
