@@ -5,10 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
 
-### Sapienza University of Rome
+## Sapienza University of Rome
 Teaching Assistant
 
 * Programming Methodologies: 2016 - 2017
@@ -19,7 +17,7 @@ Teaching Assistant
   * Assembler
   * MIPS
 
-### University of Buenos Aires
+## University of Buenos Aires
 Teaching Assistant
 
 * Software Engineering I, 2006 - 2007
