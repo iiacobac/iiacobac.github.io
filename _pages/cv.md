@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Sapienza University of Rome, 2019
+* Ph.D in Computer Science, Sapienza University of Rome, May 2014 - Sep 2018
 * MSc. in Computer Science, University of Buenos Aires, 2012
 
 Work experience
 ======
 
-#### [**ELM Europe**](https://elmeurope.com/), Nov 2024 - Ongoing
+## [**ELM Europe**](https://elmeurope.com/), Nov 2024 - Ongoing
 * London, United Kingdom
 * Senior NLP Researcher
 
-#### [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
+## [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
 * London, United Kingdom
 * Expert NLP / Team Leader 
   * Led a team of 7 to 10 members made by BSc./MSc. interns, contractors and Research Scientist.
@@ -31,28 +31,24 @@ Work experience
   * Coordination and development Nezha Plus, runner up system on SuperGLUE benchmark for General NLU (2020).
   * Interviewed 60+ candidates on 6 years. Helped to create the team from scratch.
 
-#### **Google Zurich**, July 2016 - Sep 2016
+## [**Google Zurich**](https://support.google.com/youtube/answer/2797370?hl=en), July 2016 - Sep 2016
 * Zurich, Switzerland
 * Software Engineer Intern 
   * C++ development on the YouTube Content ID team. Improving detecting copyrighted material by incorporating metadata (textual) information.
 
-* April 2012 - April 2014: Machine Learning Engineer at **Flowics**
+##  [**Flowics**](https://www.flowics.com/), April 2012 - April 2014
+  * Buenos Aires, Argentina
+  * Machine Learning Engineer at
   * Build a Word Cloud generator with Collocations for Streaming (Apache Storm) and offline (Hadoop).
   * User demographic identification, i.e. geolocation, gender, age range, preferred language, etc.
   * Build several domain specific sentiment analysis models.
 
-* July 2010 - March 2012: R+D Developer at **Keepcon**
+## [**Keepcon**](https://keepcon.com/en/), July 2010 - March 2012
+  * Buenos Aires, Argentina
+  * R+D Developer
   * Build a Machine Learning based Sentiment Analizer for social network sanitization.
   * Category prediction of ads for international online retail client.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
