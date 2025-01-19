@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find the full list of articles on [my Google Scholar profile](https://scholar.google.com/citations?user=zOmsu9EAAAAJ).
 
-Publication Hightlights
+
+Hightlights
 ======
 
 * [Correct and Optimal: the Regular Expression Inference Challenge](https://www.ijcai.org/proceedings/2024/717). Mojtaba Valizadeh* , Philip John Gorinski* ,*Ignacio Iacobacci* and Martin Berger, at the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI-24)
