@@ -5,7 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Unitelma - Sapienza University of Rome
+Teaching
 
+* Text analytics: 2025
+  * Probability
+  * Co-ocurrence, collocations, Smoothing,
+  * Regular Expressions
+  * Language Models
+ 
 ## Sapienza University of Rome
 Teaching Assistant
 
