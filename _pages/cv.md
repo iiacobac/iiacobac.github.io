@@ -26,11 +26,11 @@ Advisor: PhD. Enrique C. Segura
 Work experience
 ======
 
-## [**ELM Europe**](https://elmeurope.com/), Nov 2024 - Ongoing
+## [**ELM Europe**](https://elmeurope.com/) Nov 2024 - Ongoing
 * London, United Kingdom
 * Senior NLP Researcher
 
-## [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home), Sep 2018 - Oct 2024
+## [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home) Sep 2018 - Oct 2024
 * London, United Kingdom
 * Expert NLP / Team Leader 
   * Led a team of 7 to 10 members made by BSc./MSc. interns, contractors and Research Scientist.
@@ -40,7 +40,7 @@ Work experience
   * Coordination and development Nezha Plus, runner up system on SuperGLUE benchmark for General NLU (2020).
   * Interviewed 60+ candidates on 6 years. Helped to create the team from scratch.
 
-## [**Google Zurich**](https://support.google.com/youtube/answer/2797370?hl=en), July 2016 - Sep 2016
+## [**Google Zurich**](https://support.google.com/youtube/answer/2797370?hl=en) July 2016 - Sep 2016
 * Zurich, Switzerland
 * Software Engineer Intern 
   * C++ development on the YouTube Content ID team. Improving detecting copyrighted material by incorporating metadata (textual) information.
@@ -52,7 +52,7 @@ Work experience
   * User demographic identification, i.e. geolocation, gender, age range, preferred language, etc.
   * Build several domain specific sentiment analysis models.
 
-## [**Keepcon**](https://keepcon.com/en/), July 2010 - March 2012
+## [**Keepcon**](https://keepcon.com/en/) July 2010 - March 2012
   * Buenos Aires, Argentina
   * R+D Developer
   * Build a Machine Learning based Sentiment Analizer for social network sanitization.
