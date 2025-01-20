@@ -12,14 +12,15 @@ redirect_from:
 Education
 ======
 * **PhD in Computer Science & Research Fellow**
-Computer Science Department,, Sapienza University of Rome, 2014 - 2018
+Computer Science Department,, Sapienza University of Rome, 2014 - 2018\
 Advisee of Prof. Roberto Navigli.
-Build state-the-art WSD system [IMS-Embed](https://aclanthology.org/P16-1085/). Created the state-of-the-art system for word similarity based on sense embeddings, [SensEmbed](https://aclanthology.org/P15-1010/)
+Build state-the-art WSD system [IMS-Embed](https://aclanthology.org/P16-1085/).\
+Created the state-of-the-art system for word similarity based on sense embeddings, [SensEmbed](https://aclanthology.org/P15-1010/)
 
 * **M.Sc. in Computer Science**
-Faculty of Exact and Naturals Sciences, University of Buenos Aires 2003 - July 2012
-Master’s thesis: Neural Networks for Optimization: The Linear Ordering Problem
-Thesis valuation: 10/10
+Faculty of Exact and Naturals Sciences, University of Buenos Aires 2003 - July 2012\
+Master’s thesis: Neural Networks for Optimization: The Linear Ordering Problem\
+Thesis valuation: 10/10\
 Advisor: PhD. Enrique C. Segura
 
 Work experience
