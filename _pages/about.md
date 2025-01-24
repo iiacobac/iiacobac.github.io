@@ -25,10 +25,10 @@ My current research interests are in dialogue systems and natural language under
 Lastest News
 ======
 
-> ### Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
+> - ### Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
-> ### I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 
+> - ### I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 
 > 
-> ### First time acting as Senior Area Chair at ACL 2025 🎉 
+> - ### First time acting as Senior Area Chair at ACL 2025 🎉 
 
 
