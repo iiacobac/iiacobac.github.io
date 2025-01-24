@@ -22,3 +22,13 @@ Research
 My current research interests are in dialogue systems and natural language understanding, question answering and commonsense reasoning, Large Language Models (LLMs) for automatic code understanding and generation, and LLMs-based autonomous agents. During my PhD my main field of study was about neural-grounded distributional models, such as word and sense embeddings, and word sense disambiguation.
 
 
+Lastest News
+======
+
+> #### Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
+>
+> #### I have been appointed teacher of "Textual Data Analysis" course at [Unitelma](https://www.unitelmasapienza.it/)@ 
+> 
+> #### First time acting as Senior Area Chair at ACL 2025 🎉 
+>  
+
