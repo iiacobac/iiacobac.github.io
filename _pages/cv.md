@@ -46,15 +46,15 @@ Work experience
   * C++ development on the YouTube Content ID team. Improving detecting copyrighted material by incorporating metadata (textual) information.
 
 ##  [**Flowics**](https://www.flowics.com/), April 2012 - April 2014
-  * Buenos Aires, Argentina
-  * Machine Learning Engineer at
+* Buenos Aires, Argentina
+* Machine Learning Engineer
   * Build a Word Cloud generator with Collocations for Streaming (Apache Storm) and offline (Hadoop).
   * User demographic identification, i.e. geolocation, gender, age range, preferred language, etc.
   * Build several domain specific sentiment analysis models.
 
 ## [**Keepcon**](https://keepcon.com/en/) July 2010 - March 2012
-  * Buenos Aires, Argentina
-  * R+D Developer
+* Buenos Aires, Argentina
+* R+D Developer
   * Build a Machine Learning based Sentiment Analizer for social network sanitization.
   * Category prediction of ads for international online retail client.
   
