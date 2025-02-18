@@ -36,9 +36,9 @@ Lastest News
 > - ### Nov 2022 Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
 >
 > - ### July 2022 PanGu-Coder: Program Synthesis with Function-Level Language Modeling Technical Report published
-> - 
+> 
 > - ### June 2022 Invited to pariticipate as Speaker on the 1st Cardiff NLP Summer Workshop, University of Cardiff, Cardiff, Wales, UK
-> - 
+>  
 > - ### Jan 2021 Participated for the first time on the UCL IXN Programme. 
 >
 > - ### Nov 2020 Became a member of the Editorial Board of the "Language Resources and Evaluation" journal.
