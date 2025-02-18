@@ -31,18 +31,18 @@ Lastest News
 > 
 > - ### Dec 2024: First time acting as Senior Area Chair at ACL 2025 🎉
 >
-> - ### Nov 2024 Joined ELM Europe as Senior NLP Researcher.
+> - ### Nov 2024: Joined ELM Europe as Senior NLP Researcher.
 >
-> - ### Nov 2022 Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
+> - ### Nov 2022: Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
 >
-> - ### July 2022 PanGu-Coder: Program Synthesis with Function-Level Language Modeling Technical Report published
+> - ### July 2022: [PanGu-Coder: Program Synthesis with Function-Level Language Modeling](https://arxiv.org/abs/2207.11280) Technical Report published.
 > 
-> - ### June 2022 Invited to pariticipate as Speaker on the 1st Cardiff NLP Summer Workshop, University of Cardiff, Cardiff, Wales, UK
+> - ### June 2022: Invited to participate as Speaker on the 1st Cardiff NLP Summer Workshop, University of Cardiff, Cardiff, Wales, UK
 >  
-> - ### Jan 2021 Participated for the first time on the UCL IXN Programme. 
+> - ### Jan 2021: Participated for the first time at the [UCL IXN Programme](https://www.ucl.ac.uk/computer-science/collaborate/ucl-industry-exchange-network-ucl-ixn). 
 >
-> - ### Nov 2020 Became a member of the Editorial Board of the "Language Resources and Evaluation" journal.
+> - ### Nov 2020: Became a member of the Editorial Board of the ["Language Resources and Evaluation"](https://link.springer.com/journal/10579) journal.
 >
-> - ### Feb 2019 Defended my PhD. Thesis "Neural-grounded Semantic Representations and Word Sense Disambiguation: A Mutually Beneficial Relationship"
+> - ### Feb 2019: Defended my PhD. Thesis ["Neural-grounded Semantic Representations and Word Sense Disambiguation: A Mutually Beneficial Relationship"](https://iris.uniroma1.it/handle/11573/1304526)
 >
-> - ### Sep 2018 Moved to London, UK 🇬🇧 and joined Huawei Noah's Ark Lab as NLP Researcher.
+> - ### Sep 2018: Moved to London, UK 🇬🇧 and joined [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) as NLP Researcher.
