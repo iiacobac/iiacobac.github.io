@@ -24,14 +24,14 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
-
-> - ### Jan 2025 Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
+> - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
+> - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
-> - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 
+> - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 🇮🇹
 > 
 > - ### Dec 2024: First time acting as Senior Area Chair at ACL 2025 🎉
 >
-> - ### Nov 2024: Joined ELM Europe as Senior NLP Researcher.
+> - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/). as Senior NLP Researcher.
 >
 > - ### Nov 2022: Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
 >
