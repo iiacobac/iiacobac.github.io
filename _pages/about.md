@@ -30,7 +30,7 @@ Lastest News
 > 
 > - ### Dec 2024: First time acting as Senior Area Chair at ACL 2025 🎉
 >
-> - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/). as Senior NLP Researcher.
+> - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/) as Senior NLP Researcher.
 >
 > - ### Nov 2022: Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
 >
