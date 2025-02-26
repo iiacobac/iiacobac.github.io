@@ -10,7 +10,7 @@ redirect_from:
 About
 ======
 
-I am Ignacio Iacobacci, a NLP Expert currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
+I am Ignacio Iacobacci, a NLP Expert and a member of the [ELLIS Society](https://ellis.eu/), currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
 I received my PhD. in [Computer Science from Sapienza University in Rome (Italy)](https://www.di.uniroma1.it/). I also hold a MSc. in [Computer Science from University of Buenos Aires (Argentina)](https://www.dc.uba.ar/).
 I worked on the [YouTube Content ID](https://support.google.com/youtube/answer/2797370?hl=en).
 My background also include almost 10 years as a software engineer, including 4 years as a machine learning / NLP specialist.
@@ -20,9 +20,9 @@ Research
 
 My current research interests are in dialogue systems and natural language understanding, question answering and commonsense reasoning, Large Language Models (LLMs) for automatic code understanding and generation, and LLMs-based autonomous agents. During my PhD my main field of study was about neural-grounded distributional models, such as word and sense embeddings, and word sense disambiguation.
 
-
 Lastest News
 ======
+> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu/members) as a member.
 > - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
 > - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
