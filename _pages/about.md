@@ -22,7 +22,7 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
-> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu/members) as a member.
+> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.
 > - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
 > - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
