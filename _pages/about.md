@@ -22,8 +22,10 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
-> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.
+> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.🎉
+>   
 > - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
+>   
 > - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
 > - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 🇮🇹
@@ -44,4 +46,4 @@ Lastest News
 >
 > - ### Feb 2019: Defended my PhD. Thesis ["Neural-grounded Semantic Representations and Word Sense Disambiguation: A Mutually Beneficial Relationship"](https://iris.uniroma1.it/handle/11573/1304526)
 >
-> - ### Sep 2018: Moved to London, UK 🇬🇧 and joined [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) as NLP Researcher.
+> - ### Sep 2018: Moved to London, UK 🇬🇧 and joined [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/)<img src="images/huawei.jpg" alt="Huawei Logo" width="10" height="10"> as NLP Researcher.
