@@ -32,7 +32,7 @@ Lastest News
 > 
 > - ### Dec 2024: First time acting as Senior Area Chair at ACL 2025 🎉
 >
-> - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/) as Senior NLP Researcher.
+> - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/) <img src="images/elm.png" alt="ELM Logo" height="20"> as Senior NLP Researcher.
 >
 > - ### Nov 2022: Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
 >
@@ -46,4 +46,4 @@ Lastest News
 >
 > - ### Feb 2019: Defended my PhD. Thesis ["Neural-grounded Semantic Representations and Word Sense Disambiguation: A Mutually Beneficial Relationship"](https://iris.uniroma1.it/handle/11573/1304526)
 >
-> - ### Sep 2018: Moved to London, UK 🇬🇧 and joined [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/)<img src="images/huawei.jpg" alt="Huawei Logo" width="10" height="10"> as NLP Researcher.
+> - ### Sep 2018: Moved to London, UK 🇬🇧 and joined [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) <img src="images/huawei.jpg" alt="Huawei Logo" height="20"> as NLP Researcher.
