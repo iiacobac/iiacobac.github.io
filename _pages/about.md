@@ -13,7 +13,7 @@ About
 I am Ignacio Iacobacci, a NLP Expert and a member of the [ELLIS Society](https://ellis.eu/), currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
 I received my PhD. in [Computer Science from Sapienza University in Rome (Italy)](https://www.di.uniroma1.it/). I also hold a MSc. in [Computer Science from University of Buenos Aires (Argentina)](https://www.dc.uba.ar/).
 I interned at the [YouTube Content ID](https://support.google.com/youtube/answer/2797370?hl=en) in Google (Zurich, Switzerland).
-My background also include almost 10 years as a software engineer, including 4 years as a machine learning / NLP specialist.
+Prior to my PhD, I worked 10 years as a software engineer, including 4 years as a machine learning / NLP specialist.
 
 Research
 ======
@@ -38,7 +38,7 @@ Lastest News
 >
 > - ### July 2022: [PanGu-Coder: Program Synthesis with Function-Level Language Modeling](https://arxiv.org/abs/2207.11280) Technical Report published.
 > 
-> - ### June 2022: Invited to participate as Speaker on the 1st Cardiff NLP Summer Workshop, University of Cardiff, Cardiff, Wales, UK
+> - ### June 2022: Invited to participate as Speaker on the 1st Cardiff NLP Summer Workshop, University of Cardiff  <img src="images/cardiff.png" alt="Cardiff Logo" width="25"> , Cardiff, Wales, UK
 >  
 > - ### Jan 2021: Participated for the first time at the [UCL IXN Programme](https://www.ucl.ac.uk/computer-science/collaborate/ucl-industry-exchange-network-ucl-ixn). 
 >
