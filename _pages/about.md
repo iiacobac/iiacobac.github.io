@@ -10,8 +10,10 @@ redirect_from:
 About
 ======
 
-I am Ignacio Iacobacci, a NLP Expert and a member of the [ELLIS Society](https://ellis.eu/), currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
-I received my PhD. in [Computer Science from Sapienza University in Rome (Italy)](https://www.di.uniroma1.it/). I also hold a MSc. in [Computer Science from University of Buenos Aires (Argentina)](https://www.dc.uba.ar/).
+I am Ignacio Iacobacci, a NLP Expert and a member of the [ELLIS Society](https://ellis.eu/), currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). 
+I'm also in charge of the "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/).
+I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
+I was research fellow and received my PhD. in [Computer Science from Sapienza University in Rome (Italy)](https://www.di.uniroma1.it/), as a member of two ERC-funded projects ([MultiJEDI](http://multijedi.org/) and [MOUSSE](http://mousse-project.org/)).  I also hold a MSc. in [Computer Science from University of Buenos Aires (Argentina)](https://www.dc.uba.ar/).
 I interned at the [YouTube Content ID](https://support.google.com/youtube/answer/2797370?hl=en) in Google (Zurich, Switzerland).
 Prior to my PhD, I worked 10 years as a software engineer, including 4 years as a machine learning / NLP specialist.
 
