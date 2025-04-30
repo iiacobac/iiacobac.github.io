@@ -24,6 +24,8 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
+> - ### Mar 2025 Invited to be external collaborator of the [Intelligent Information Mining](https://iim.di.uniroma1.it/index.html) <img src="images/iim.png" alt="IIM Logo" width="25"> group.
+> 
 > - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.🎉
 >   
 > - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
