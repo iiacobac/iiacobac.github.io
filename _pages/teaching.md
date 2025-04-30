@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Unitelma - Sapienza University of Rome
+## UnitelmaSapienza - Università degli Studi di Roma 
 Teaching
 
 * Text analytics: 2025
