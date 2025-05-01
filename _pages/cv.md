@@ -35,6 +35,7 @@ Work experience
 * Expert NLP / Team Leader 
   * Led a team of 7 to 10 members made by BSc./MSc. interns, contractors and Research Scientist.
   * Co-authored, developed and advised 20+ research papers on top level conferences such as ACL, EMNLP, NAACL, EACL, AAAI, etc.
+  * Project Manager collaboration with U. of Cambridge, University of Edinburgh and ADAPT / Trinity College of Dublin.
   * Led the PanGu-Coder . project which was state-of-the-art model on code generation (HumanEval) and was used as backbone for CodeArts Snap, Code AI assistant from Huawei.
   * Coordination and development of InfoXLM-XFT, runner up system on XTREME benchmark for crosslingual NLU (Oct 2021) via data augmentation and post training.
   * Coordination and development Nezha Plus, runner up system on SuperGLUE benchmark for General NLU (2020).
