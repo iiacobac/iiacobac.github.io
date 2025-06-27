@@ -24,6 +24,8 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
+> - ### Jun 2025 My student Valentina Ferraiuolo has just graduadated with honours on her master on *Analisi e modellazione dei dati e dei processi*.🎉
+>
 > - ### Mar 2025 Invited to be external collaborator of the [Intelligent Information Mining](https://iim.di.uniroma1.it/index.html) <img src="images/iim.png.png" alt="IIM Logo" width="25"> group.
 > 
 > - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.🎉
