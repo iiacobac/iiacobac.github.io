@@ -24,7 +24,7 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
-> - ### Jun 2025 My student Valentina Ferraiuolo has just graduadated with honours on her Master<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> - ### Jun 2025 My student, Valentina Ferraiuolo, has just graduated with honours from her Master's program at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
 > - ### Mar 2025 Invited to be external collaborator of the [Intelligent Information Mining](https://iim.di.uniroma1.it/index.html) <img src="images/iim.png.png" alt="IIM Logo" width="25"> group.
 > 
@@ -34,7 +34,7 @@ Lastest News
 >   
 > - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
 >
-> - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/) 🇮🇹
+> - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [UnitelmaSapienza](https://www.unitelmasapienza.it/) 🇮🇹
 > 
 > - ### Dec 2024: First time acting as Senior Area Chair at ACL 2025 🎉
 >
