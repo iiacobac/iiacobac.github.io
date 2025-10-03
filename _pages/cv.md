@@ -71,8 +71,12 @@ Supervision
 
 ### UnitelmaSapienza - Università degli Studi di Roma 2025
 
+Current Students:
+* 2025 Raffaella Coppola - Exploring the 2030 Agenda through Natural Language Processing analysis of Voluntary National Reviews. ​
+* 2025 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie ​
+Gratuated
 * 2025 Valentina Ferraiuolo - Dalla Voce dei Consumatori alle Vendite: Analisi del Sentiment e Apprendimento Automatico per la Previsione delle Performance di Johnson & Johnson ​
-* 2025 Alberto Saruggia - Computational Text Analysis: Algorithms and Correlations in Startup Performance ​
+* 2025 Alberto Saruggia - Predicting Startup Exit: A Computational Linguistics Framework Applying NLP and Machine Learning on Venture Capital Data ​
 
 ### Department of Computer Science, University College London 2019 - 2024
 
