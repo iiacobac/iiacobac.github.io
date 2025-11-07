@@ -10,7 +10,7 @@ redirect_from:
 About
 ======
 
-I am Ignacio Iacobacci, an NLP Expert and a member of the [ELLIS Society](https://ellis.eu/), currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). 
+I am Ignacio Iacobacci, an NLP Expert, member of the [ELLIS Society](https://ellis.eu/) and [COST](https://www.cost.eu/) Expert, currently working at [ELM Europe](https://elmeurope.com/natural-language-processing/). 
 I'm also in charge of the "Textual Data Analysis" course at [Unitelma Sapienza](https://www.unitelmasapienza.it/).
 I worked as a Senior Researcher and Team Leader at the London Speech and Language team at [Huawei Noah’s Ark Lab](https://www.noahlab.com.hk/) for six years. 
 I was research fellow and received my PhD. in [Computer Science from Sapienza University in Rome (Italy)](https://www.di.uniroma1.it/), as a member of two ERC-funded projects ([MultiJEDI](http://multijedi.org/) and [MOUSSE](http://mousse-project.org/)).  I also hold a MSc. in [Computer Science from University of Buenos Aires (Argentina)](https://www.dc.uba.ar/).
