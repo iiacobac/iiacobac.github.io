@@ -42,3 +42,9 @@ Selected Publications
 * [Embeddings for Word Sense Disambiguation: An Evaluation Study](https://aclanthology.org/P16-1085/). *Ignacio Iacobacci*, Mohammad Taher Pilehvar and Roberto Navigli, ACL 2016.
 
 * [SenseEmbed: Learning Sense Embeddings for Word And Relational Similarity](https://aclanthology.org/P15-1010/). *Ignacio Iacobacci*, Mohammad Taher Pilehvar and Roberto Navigli, ACL-IJCNLP 2015.
+
+Patents
+
+* [Apparatus and method for the training of a code synthesis model](https://patents.google.com/patent/WO2024213252A1)). Philip Gorinski, Matthieu Zimmer, Gerasimos Lampouras, Derrick Goh Xin Deik, *Ignacio Iacobacci*
+
+* [Automatic evaluation of alignment with human preferences](https://patents.google.com/patent/WO2025087518A1). Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci*
