@@ -43,7 +43,9 @@ Selected Publications
 
 * [SenseEmbed: Learning Sense Embeddings for Word And Relational Similarity](https://aclanthology.org/P15-1010/). *Ignacio Iacobacci*, Mohammad Taher Pilehvar and Roberto Navigli, ACL-IJCNLP 2015.
 
+
 Patents
+======
 
 * [Apparatus and method for the training of a code synthesis model](https://patents.google.com/patent/WO2024213252A1)). Philip Gorinski, Matthieu Zimmer, Gerasimos Lampouras, Derrick Goh Xin Deik, *Ignacio Iacobacci*
 
