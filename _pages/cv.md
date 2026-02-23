@@ -71,12 +71,12 @@ Supervision
 
 ### UnitelmaSapienza - Università degli Studi di Roma 2025
 
-Current Students:
+##### Current Students:
 * 2026 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie. Expected March 2026
 * 2026 Luciano Antonio - Analisi Predittivo delle Cartelle Cliniche per il Supporto Decisionale in Sanità ​
 
   ​
-Gratuated:
+##### Gratuated:
 * 2025 Valentina Ferraiuolo - Dalla Voce dei Consumatori alle Vendite: Analisi del Sentiment e Apprendimento Automatico per la Previsione delle Performance di Johnson & Johnson ​
 * 2025 Alberto Saruggia - Predicting Startup Exit: A Computational Linguistics Framework Applying NLP and Machine Learning on Venture Capital Data
 * 2025 Raffaella Coppola - Exploring the 2030 Agenda through Natural Language Processing analysis of Voluntary National Reviews. Expected December 2025 ​
