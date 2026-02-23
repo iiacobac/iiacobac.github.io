@@ -23,6 +23,7 @@ Research
 My current research interests are in dialogue systems and natural language understanding, question answering and commonsense reasoning, Large Language Models (LLMs) for automatic code understanding and generation, and LLMs-based autonomous agents. During my PhD my main field of study was about neural-grounded distributional models, such as word and sense embeddings, and word sense disambiguation.
 
 ======
+
 > - ### Jan 20265 "Improving LLM Domain Certification with Pretrained Guide Models" authored by Jiaqian Zhang, Zhaozhi Qian, Faroq Altam, *Ignacio Iacobacci*, Muhammad Alqurishi and Riad Souissi has been accepted at EACL 2026 as a Main Conference paper. 🎉
 > 
 > - ### Dec 2025 "CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks" authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi has been accepted as a Journal paper at IEEE Access (vol. 13, pp. 216038-216052, 2025) 🎉
