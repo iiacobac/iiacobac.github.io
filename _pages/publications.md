@@ -10,6 +10,7 @@ You can also find the full list of articles on [my Google Scholar profile](https
 
 Selected Publications
 ======
+* [CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks](https://ieeexplore.ieee.org/document/11305029) authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi, IEEE Access, volume 13, pp. 216038-216052, 2025.
 
 * [Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency](https://aclanthology.org/2025.findings-naacl.5/). Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci*, at the Findings of the Association for Computational Linguistics: NAACL 2025.
 
