@@ -22,8 +22,11 @@ Research
 
 My current research interests are in dialogue systems and natural language understanding, question answering and commonsense reasoning, Large Language Models (LLMs) for automatic code understanding and generation, and LLMs-based autonomous agents. During my PhD my main field of study was about neural-grounded distributional models, such as word and sense embeddings, and word sense disambiguation.
 
-Lastest News
 ======
+> - ### Jan 20265 "Improving LLM Domain Certification with Pretrained Guide Models" authored by Jiaqian Zhang, Zhaozhi Qian, Faroq Altam, *Ignacio Iacobacci*, Muhammad Alqurishi and Riad Souissi has been accepted at EACL 2026 as a Main Conference paper. 🎉
+> 
+> - ### Dec 2025 "CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks" authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi has been accepted as a Journal paper at IEEE Access (vol. 13, pp. 216038-216052, 2025) 🎉
+> 
 > - ### Dec 2025 My student, Raffaella Coppola, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
 > - ### Sep 2025 My student, Alberto Saruggia, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
@@ -36,7 +39,7 @@ Lastest News
 >   
 > - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
 >   
-> - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 (Findings) 
+> - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 
 >
 > - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [UnitelmaSapienza](https://www.unitelmasapienza.it/) 🇮🇹
 > 
