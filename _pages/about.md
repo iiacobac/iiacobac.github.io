@@ -25,23 +25,23 @@ My current research interests are in dialogue systems and natural language under
 Lastest News
 ======
 
-> - ### Jan 20265 "Improving LLM Domain Certification with Pretrained Guide Models" authored by Jiaqian Zhang, Zhaozhi Qian, Faroq Altam, *Ignacio Iacobacci*, Muhammad Alqurishi and Riad Souissi has been accepted at EACL 2026 as a Main Conference paper. 🎉
+> - ### Jan 2026 "Improving LLM Domain Certification with Pretrained Guide Models" authored by Jiaqian Zhang, Zhaozhi Qian, Faroq Altam, *Ignacio Iacobacci*, Muhammad Alqurishi and Riad Souissi has been accepted at EACL 2026 as a Main Conference paper. 🎉
 > 
-> - ### Dec 2025 "CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks" authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi has been accepted as a Journal paper at IEEE Access (vol. 13, pp. 216038-216052, 2025) 🎉
+> - ### Dec 2025: [CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks](https://ieeexplore.ieee.org/document/11305029) authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi has been accepted as a Journal paper at IEEE Access (vol. 13, pp. 216038-216052, 2025) 🎉
 > 
-> - ### Dec 2025 My student, Raffaella Coppola, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> - ### Dec 2025: My student, Raffaella Coppola, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
-> - ### Sep 2025 My student, Alberto Saruggia, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> - ### Sep 2025: My student, Alberto Saruggia, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
-> - ### Jun 2025 My student, Valentina Ferraiuolo, has just graduated with honours from her Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> - ### Jun 2025: My student, Valentina Ferraiuolo, has just graduated with honours from her Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
-> - ### Mar 2025 Invited to be external collaborator of the [Intelligent Information Mining](https://iim.di.uniroma1.it/index.html) <img src="images/iim.png.png" alt="IIM Logo" width="25"> group.
+> - ### Mar 2025: Invited to be external collaborator of the [Intelligent Information Mining](https://iim.di.uniroma1.it/index.html) <img src="images/iim.png.png" alt="IIM Logo" width="25"> group.
 > 
-> - ### Feb 2025 I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.🎉
+> - ### Feb 2025: I've been nominated to join [ELLIS Society (European Laboratory for Learning Intelligence Systems)](https://ellis.eu) as a member.🎉
 >   
-> - ### Feb 2025 Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
+> - ### Feb 2025: Attended [LEAP 2025](https://onegiantleap.com/) in Riyadh, Saudi Arabia 🇸🇦.
 >   
-> - ### Jan 2025 "Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency" authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 
+> - ### Jan 2025: [Code-Optimise: Self-Generated Preference Data for Correctness and Efficiency](https://aclanthology.org/2025.findings-naacl.5/) authored by Leonidas Gee, Milan Gritta, Gerasimos Lampouras, *Ignacio Iacobacci* has been accepted at Findings of NAACL 2025 
 >
 > - ### Jan 2025: I have been appointed teacher of "Textual Data Analysis" course at [UnitelmaSapienza](https://www.unitelmasapienza.it/) 🇮🇹
 > 
