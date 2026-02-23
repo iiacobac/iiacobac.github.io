@@ -86,8 +86,8 @@ Supervision
 
 Co-supervision MSc. thesis under the UCL IXN programme.
 * 2024 Abhineet Kumar - Code Synthesis Via Planning (UCL supervisor: Prof. Jun Wang)
-* 2023 Qi Wang - Improving Text-to-Code Generation with Curriculum Learning (cosupervised with Dr. Fenia Christopoulou and UCL Prof. Mark Herbster)
+* 2023 Qi Wang - Improving Text-to-Code Generation with Curriculum Learning (co-supervised with Dr. Fenia Christopoulou and UCL Prof. Mark Herbster)
 * 2022 Jingwei Ni - Novel Auxiliary Objectives for Code Generation/Understanding Tasks (Prof. Carlo Ciliberto)
-* 2021 Han Zhou Zero-shot Transfer Learning for Multi-Domain and Multi-Lingual Dialogue State Tracking (UCL supervisors: Dr. Pasquale Minervini and Prof. Pontus Stenetorp)
+* 2021 Han Zhou - Zero-shot Transfer Learning for Multi-Domain and Multi-Lingual Dialogue State Tracking (UCL supervisors: Dr. Pasquale Minervini and Prof. Pontus Stenetorp)
 * 2021 Nils Zerrer - Task-oriented Conversational Modelling with Unstructured Knowledge Access (UCL supervisor: Prof. Pontus Stenetorp)
 * 2020 Matteo Donati - On the Robustness of Neural Reading Comprehension Models (UCL supervisor: Dr. Pasquale Minervini)
