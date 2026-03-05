@@ -50,6 +50,8 @@ Lastest News
 > - ### Nov 2024: Joined [ELM Europe](https://elmeurope.com/natural-language-processing/) <img src="images/elm.png" alt="ELM Logo" width="50"> as Senior NLP Researcher.
 >
 > - ### Nov 2022: Invited to participate on as Speaker at Cambridge Language Technology Lab Seminars, University of Cambridge, Cambridge, UK
+>   
+> - ### Sep 2022: Participated in the Podcast [We Decentralize Tech/Hacia Afuera](https://open.spotify.com/episode/1gSVqfWEhOCLRHGq1pKD07?si=_6K2fuEtSmaT6T2U3kpZGQ) (in Spanish) 🎉
 >
 > - ### July 2022: [PanGu-Coder: Program Synthesis with Function-Level Language Modeling](https://arxiv.org/abs/2207.11280) Technical Report published.
 > 
