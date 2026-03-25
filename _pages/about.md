@@ -31,7 +31,7 @@ Lastest News
 > 
 > - ### Dec 2025: My student, Raffaella Coppola, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
-> - ### Sep 2025: My student, Alberto Saruggia, has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> - ### Sep 2025: My student, A. S., has just graduated from his Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
 > - ### Jun 2025: My student, Valentina Ferraiuolo, has just graduated with honours from her Master's program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 >
