@@ -70,15 +70,25 @@ Supervision
 ======
 
 ### UnitelmaSapienza - Università degli Studi di Roma 2025
+####
 
 ##### Current Students:
+* 2026 Vittoria Tomasseti - Analisi ed estrazione delle dimensioni semantiche del principio dell’Efficienza Energetica al primo posto. ​
+* 2026 Eleonora Rossi - Creazione di un corpus e di un modello predittivo in grado di rilevare errori nella produzione orale di bambini. ​
+* 2026 Vito Pisino - Riconoscere la scrittura artificiale nel dominio giuridico: un'analisi comparativa tra testi di origine umana e testi generati mediante intelligenza artificiale ​
+* 2026 Andrea Menconi - "Do-Not-Answer" - Un benchmark per valutare affidabilità e rischi degli LLM in italiano ​
+* 2026 Chiara Gaborin - Cluster e raccomandazione di keywords ​
+* 2026 Angela Bellante - Sviluppo e valutazione di un sistema per classificare automaticamente ricette alimentari tramite tecniche di NLP e machine learning.  ​
+* 2026 Stella Iacobellis - I pattern nel riconoscimento delle fake news nell'analisi testuale  ​
 * 2026 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie. 
-* 2026 Luciano Antonio - Analisi Predittivo delle Cartelle Cliniche per il Supporto Decisionale in Sanità ​
-  ​
+​
 ##### Gratuated:
-* 2025 Valentina Ferraiuolo - Dalla Voce dei Consumatori alle Vendite: Analisi del Sentiment e Apprendimento Automatico per la Previsione delle Performance di Johnson & Johnson ​
+* 2026 Luciano Antonio - Analisi Predittivo delle Cartelle Cliniche per il Supporto Decisionale in Sanità ​
+* 2025 Raffaella Coppola - Exploring the 2030 Agenda through Natural Language Processing analysis of Voluntary National Reviews
 * 2025 A. S. - Predicting Startup Exit: A Computational Linguistics Framework Applying NLP and Machine Learning on Venture Capital Data
-* 2025 Raffaella Coppola - Exploring the 2030 Agenda through Natural Language Processing analysis of Voluntary National Reviews. Expected December 2025 ​
+* 2025 Valentina Ferraiuolo - Dalla Voce dei Consumatori alle Vendite: Analisi del Sentiment e Apprendimento Automatico per la Previsione delle Performance di Johnson & Johnson ​
+
+​
 ​
 
 ### Department of Computer Science, University College London 2019 - 2024
