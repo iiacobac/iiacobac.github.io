@@ -24,7 +24,9 @@ My current research interests are in dialogue systems and natural language under
 
 Lastest News
 ======
-
+>
+> - ### Jun 206: My student, Antonio Luciano, has just graduated with honours from his Master program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
+> 
 > - ### Jan 2026 [Improving LLM Domain Certification with Pretrained Guide Models]() authored by Jiaqian Zhang, Zhaozhi Qian, Faroq Altam, *Ignacio Iacobacci*, Muhammad Alqurishi and Riad Souissi has been accepted at EACL 2026 as a Main Conference paper. 🎉
 > 
 > - ### Dec 2025: [CamelEval: Advancing Benchmarks for Arabic Language Models in Generative Tasks](https://ieeexplore.ieee.org/document/11305029) authored by Zhaozhi Qian, Faroq Altam, Muhammad Alqurishim, *Ignacio Iacobacci*, Abdulmalik Aldawsari and Riad Souissi has been accepted as a Journal paper at IEEE Access (vol. 13, pp. 216038-216052, 2025) 🎉
