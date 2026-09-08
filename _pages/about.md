@@ -25,7 +25,7 @@ My current research interests are in dialogue systems and natural language under
 Lastest News
 ======
 >
-> - ### Aug 2026 [AraDynFact: Dynamic Evaluation of Factual Knowledge in Arabic]() authored by *Ignacio Iacobacci*, Faroq Altam, Zhaozhi Qian, and Muhammad Alqurishi has been accepted at EMNLP 2026 Industry Track.  <img src="images/image.png" alt="EMNLP Logo" width="50">  🎉
+> - ### Aug 2026 [AraDynFact: Dynamic Evaluation of Factual Knowledge in Arabic]() authored by *Ignacio Iacobacci*, Faroq Altam, Zhaozhi Qian, and Muhammad Alqurishi has been accepted at EMNLP 2026 Industry Track.  <img src="images/image.png" alt="EMNLP Logo" width="70">  🎉
 >
 > - ### Jun 2026: My student, Antonio Luciano, has just graduated with honours from his Master program _Analisi e modellazione dei dati e dei processi: metodi e modelli_ at UnitelmaSapienza<img src="images/unitelma.png" alt="UnitelmaSapienza" width="25"> on *Analisi e modellazione dei dati e dei processi*.🎉
 > 
