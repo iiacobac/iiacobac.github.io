@@ -28,7 +28,10 @@ Work experience
 
 ## [**ELM Europe**](https://elmeurope.com/) Nov 2024 - Ongoing
 * London, United Kingdom
-* Senior NLP Researcher
+* Expert NLP 
+  * Developed _AraDynFact_, a culturally-aware dynamic benchmark for Arabic LLMs measuring factual grounding and response faithfulness, recently accepted at *EMNLP 2026 Industry Track*.
+  * Led and authored as first author [Increasing the Thinking Budget is Not All You Need](https://arxiv.org/abs/2512.19585), independently identifying and designing systematic experiments on reasoning and agentic configurations, analysing agent behaviour, failure modes, and scaling properties of test-time compute.
+  * Co-authored [CamelEval](https://ieeexplore.ieee.org/document/11305029), an Arabic instruction-following and cultural-alignment benchmark; designed human evaluation pipelines used across products.
 
 ## [**Huawei Noah's Ark Lab**](https://noahlab.com.hk/#/home) Sep 2018 - Oct 2024
 * London, United Kingdom
@@ -69,11 +72,10 @@ Talks
 Supervision
 ======
 
-
 ### Department of Computer Science, University College London 2019 - 2024
 
 ##### Current Students:
-* 2026 Guoqinxin Huang - Intelligent Sampling Thinking for LLMs
+* 2026 Guoqinxin Huang - Intelligent Sampling Thinking for LLMs (Submitted)
 
 ##### Gratuated:
 Co-supervision MSc. thesis under the UCL IXN programme.
@@ -90,15 +92,16 @@ Co-supervision MSc. thesis under the UCL IXN programme.
 
 ##### Current Students:
 * 2026 Vittoria Tomasseti - Analisi ed estrazione delle dimensioni semantiche del principio dell’Efficienza Energetica al primo posto. ​
-* 2026 Eleonora Rossi - Creazione di un corpus e di un modello predittivo in grado di rilevare errori nella produzione orale di bambini. ​
-* 2026 Vito Pisino - Riconoscere la scrittura artificiale nel dominio giuridico: un'analisi comparativa tra testi di origine umana e testi generati mediante intelligenza artificiale ​
-* 2026 Andrea Menconi - "Do-Not-Answer" - Un benchmark per valutare affidabilità e rischi degli LLM in italiano ​
-* 2026 Chiara Gaborin - Cluster e raccomandazione di keywords ​
 * 2026 Angela Bellante - Sviluppo e valutazione di un sistema per classificare automaticamente ricette alimentari tramite tecniche di NLP e machine learning.  ​
-* 2026 Stella Iacobellis - I pattern nel riconoscimento delle fake news nell'analisi testuale  ​
-* 2026 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie. 
+* 2026 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie.
+* 2026 Diego Miccoli - Italian Thinking Alignment: analisi delle capacità di ragionamento dei Large Language Models in lingua italiana ​
 ​
 ##### Gratuated:
+* 2026 Chiara Gaborin - Cluster e raccomandazione di keywords ​
+* 2026 Stella Iacobellis - I pattern nel riconoscimento delle fake news nell'analisi testuale
+* 2026 Andrea Menconi - "Do-Not-Answer" - Un benchmark per valutare affidabilità e rischi degli LLM in italiano ​
+* 2026 Vito Pisino - Riconoscere la scrittura artificiale nel dominio giuridico: un'analisi comparativa tra testi di origine umana e testi generati mediante intelligenza artificiale 
+* 2026 Eleonora Rossi - Creazione di un corpus e di un modello predittivo in grado di rilevare errori nella produzione orale di bambini. ​
 * 2026 Luciano Antonio - Analisi Predittivo delle Cartelle Cliniche per il Supporto Decisionale in Sanità ​
 * 2025 Raffaella Coppola - Exploring the 2030 Agenda through Natural Language Processing analysis of Voluntary National Reviews
 * 2025 A. S. - Predicting Startup Exit: A Computational Linguistics Framework Applying NLP and Machine Learning on Venture Capital Data
