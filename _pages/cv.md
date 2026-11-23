@@ -75,10 +75,10 @@ Supervision
 ### Department of Computer Science, University College London 2019 - 2024
 
 ##### Current Students:
-* 2026 Guoqinxin Huang - Intelligent Sampling Thinking for LLMs (Submitted)
 
 ##### Gratuated:
 Co-supervision MSc. thesis under the UCL IXN programme.
+* 2026 Guoqinxin Huang - Intelligent Sampling Thinking for LLMs (Prof. Dmitry Adamskiy)
 * 2024 Abhineet Kumar - Code Synthesis Via Planning (UCL supervisor: Prof. Jun Wang)
 * 2023 Qi Wang - Improving Text-to-Code Generation with Curriculum Learning (co-supervised with Dr. Fenia Christopoulou and UCL Prof. Mark Herbster)
 * 2022 Jingwei Ni - Novel Auxiliary Objectives for Code Generation/Understanding Tasks (Prof. Carlo Ciliberto)
@@ -86,11 +86,11 @@ Co-supervision MSc. thesis under the UCL IXN programme.
 * 2021 Nils Zerrer - Task-oriented Conversational Modelling with Unstructured Knowledge Access (UCL supervisor: Prof. Pontus Stenetorp)
 * 2020 Matteo Donati - On the Robustness of Neural Reading Comprehension Models (UCL supervisor: Dr. Pasquale Minervini)
   
-
 ### UnitelmaSapienza - Università degli Studi di Roma 2025
 ####
 
 ##### Current Students:
+* 2026 Golbarg Golmohammadian - Natural Language Processing e Sentiment Analysis delle recensioni online ed un confronto con gli arrivi turistici.
 * 2026 Vittoria Tomasseti - Analisi ed estrazione delle dimensioni semantiche del principio dell’Efficienza Energetica al primo posto. ​
 * 2026 Angela Bellante - Sviluppo e valutazione di un sistema per classificare automaticamente ricette alimentari tramite tecniche di NLP e machine learning.  ​
 * 2026 Vittoria Jannon - Alla ricerca di pattern narrativi: un modello di Machine Learning applicato ai romanzi di Agatha Christie.
